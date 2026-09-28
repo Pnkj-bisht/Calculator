@@ -9,7 +9,6 @@ A simple calculator built using **HTML, CSS and JavaScript**.
 * `DEL` button
 * Keyboard input support
 * Enter key for calculation
-* Responsive design
 * Hover effects
 
 ### Technologies
